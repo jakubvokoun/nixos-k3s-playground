@@ -1,0 +1,10 @@
+# Build outputs
+result
+result-*
+
+# QEMU VM files
+*.qcow2
+*.img
+
+# Nix
+.nix-*
